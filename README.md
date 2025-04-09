@@ -1,10 +1,10 @@
 # Demons PvP
 
-Welcome to the official website repository for **Demons PvP** – a custom Minecraft PvP server built by Discord developers **DHYANGAMER** and **Kokachi**.
+Welcome to the official website repository for **Demons PvP** – a custom sa_mp online  server built by Discord developers **DHYANGAMER** and **Kokachi**.
 
 ## 🔥 About the Server
 
-Demons PvP is a thrilling PvP-focused Minecraft server offering custom gameplay mechanics, intense battles, and a dedicated community. We're here to create an unforgettable gaming experience.
+Demons PvP is a thrilling PvP-focused sa-mp server offering custom gameplay mechanics, intense battles, and a dedicated community. We're here to create an unforgettable gaming experience.
 
 ## 🌐 Website
 
