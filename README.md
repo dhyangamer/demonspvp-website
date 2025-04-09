@@ -16,15 +16,10 @@ This repository contains the source code for the Demons PvP website. You can vis
 👉 [https://yourusername.github.io/demonspvp-website](https://yourusername.github.io/demonspvp-website)  
 *(Replace with your actual GitHub Pages URL after enabling Pages)*
 
-## 📥 How to Use
-
-- Clone or download the repo
-- Open `index.html` in any browser to preview locally
-- You can host it using GitHub Pages, Netlify, or any static site hosting service
 
 ## 🛠 Built With
 
-##dhyangamer 
+##dhyangamer who has many talents
 
 ## 🤝 Credits
 
@@ -37,6 +32,7 @@ Developed by:
 🎮 [Join our Discord](#) *(Replace with actual link)*
 
 ---
+##NEED HELP  ?? COMING SOON
 
 © 2025 Demons PvP. All rights reserved.
 
