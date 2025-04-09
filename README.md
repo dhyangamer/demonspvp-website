@@ -1,0 +1,92 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Demons PvP</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #000;
+      color: white;
+    }
+    header {
+      background-color: #7b1fa2;
+      padding: 2rem;
+      text-align: center;
+      box-shadow: 0 0 15px #7b1fa2;
+    }
+    header h1 {
+      font-size: 3rem;
+      margin: 0;
+      text-shadow: 0 0 10px #ff1744;
+    }
+    nav {
+      text-align: center;
+      padding: 1rem;
+      background: #121212;
+    }
+    nav a {
+      color: #7b1fa2;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+    }
+    .features, .join {
+      margin-top: 2rem;
+      background: #1a1a1a;
+      padding: 1.5rem;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(255, 23, 68, 0.2);
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      background: #121212;
+      border-top: 1px solid #333;
+    }
+    a.discord-link {
+      color: #7289da;
+      text-decoration: none;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Demons PvP</h1>
+  </header>
+
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="submit.html">Submit Username</a>
+  </nav>
+
+  <section class="about">
+    <h2>About Our Server</h2>
+    <p>Demons PvP is an SA-MP (San Andreas Multiplayer) server built by Discord developers <strong>DHYANGAMER</strong> and <strong>Kokachi</strong>. We're creating a thrilling PvP experience with custom features, intense action, and an epic community.</p>
+  </section>
+
+  <section class="features">
+    <h2>Server Features</h2>
+    <p><em>Coming soon...</em></p>
+  </section>
+
+  <section class="join">
+    <h2>Join Us</h2>
+    <p>Hop into the battle and join our community!</p>
+    <p><a href="#" class="discord-link">Join our Discord</a></p>
+  </section>
+
+  <footer>
+    &copy; 2025 Demons PvP. All rights reserved.
+  </footer>
+</body>
+</html>
