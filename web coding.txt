@@ -9,7 +9,7 @@
       margin: 0;
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       background: linear-gradient(to bottom, #1a1a1a, #0d0d0d);
-      color: white;
+      color: black;
     }
 
     header {
