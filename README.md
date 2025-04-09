@@ -1,7 +1,9 @@
 # Demons PvP
 
 Welcome to the official website repository for **Demons PvP** – a custom sa_mp online  server built by Discord developers **DHYANGAMER** and **Kokachi**.
-ip will be relesed soon 
+
+ip will be relesed soon ✨
+
 
 ## 🔥 About the Server
 
